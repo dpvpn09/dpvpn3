@@ -108,7 +108,7 @@ trojaan
 format
 ;;
 10)
-panel-domain
+add-host
 ;;
 11)
 change-port
